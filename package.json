@@ -1,0 +1,9 @@
+{
+  "name": "pixel-valentine-popup",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pixel-art valentine popup",
+  "scripts": {
+    "dev": "npx http-server -p 8000 ."
+  }
+}
